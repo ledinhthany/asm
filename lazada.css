@@ -1,0 +1,257 @@
+.logo1 >img{ 
+    height: 57px;
+    width: 150px;
+
+}
+.chuc-nang a{
+    color: #000000;
+}
+.chuc-nang{
+    position: relative;
+    display: inline-block;
+    font-size: 12px;
+    height: 25px;
+    line-height: 25px;
+    text-align: left;
+    white-space: nowrap;
+    cursor: pointer;
+    color: #000000;
+    -webkit-transition: color .2s;
+    transition: color .2s;
+    padding: 0 17px;
+}
+.bang{
+    padding: 20px;
+    margin: -4px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+    white-space: nowrap;
+    width: 172px;
+    font-family: Roboto-Regular;
+    font-size: 15px;
+    line-height: 27px;
+    color: #757575;
+    cursor: pointer;
+}
+.image{
+    width: 100%;
+    height: 100vh;
+    background-size: 100px;
+    background-repeat: repeat-x;
+    
+}
+body{
+    background-color: rgb(255, 255, 255);
+  }
+.banner{
+    display: grid;
+    grid-template-columns: 0fr 0fr;
+    padding: 0px 270px;
+    background-color: yellow;
+    height: 360px;
+    
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.anh >img{
+    height: 360px;
+    
+}
+.colum{
+    width: 200px;
+    height: 380px;
+    float: left;
+    margin: 0px;
+}
+.san-pham{
+    border-radius: 10px;
+    padding: 1px;
+    margin: 0px;
+    border: px solid rgb(255, 255, 255);
+    
+}
+.san-pham >img{
+    width: 80%;
+    height: 80%;
+    margin: 0px;
+}
+.name{
+    position: relative;
+    font-size: 14px;
+    height: 36px;
+    line-height: 18px;
+    color: #212121;
+    white-space: pre-wrap;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    margin: 0px;
+}
+.logo2 img{ 
+    width: 54px;
+    height: 41px;
+    left: 50%;
+    top: 50%;
+    margin: 0px 0 0 -14px;
+}
+.logooo img{
+    width: 188px;
+    height: 45px;
+    
+}
+.timkiem input{
+    padding: 14px 260px;
+    /* position: relative; */
+    margin-left: 20px;
+    background: #eff0f5;
+    border-radius: 4px;
+    border: none;
+}
+
+.icon{
+    /* position: absolute;
+    left: 20px; */
+    margin-top: -40px;
+
+}
+
+.timkiem{
+    align-items: center;
+
+}
+.timkiem .icon{
+    color: rgb(0, 4, 255);
+    padding: 10px 10px;
+    margin-left: 660px;
+    
+}
+.img-icon-o-vuong {
+    width: 40px;
+    height: 12px;
+    margin: 4px 4px 4px 4px;
+}
+.anh-o-vuong{
+    width: 36px;
+    height: 36px;
+    border-radius: 16px;
+}
+.text-o-vuon{
+    float: left;
+    margin-left: 4px;
+    font-size: 18px;
+    height: 40px;
+    line-height: 40px;
+}
+.text-trong{
+
+    display: inline-block;
+    margin-top: 13px;
+}
+.dell{
+    margin-top: 17px;
+    padding-top: 160px;
+    padding-left: 170px;
+    display: block;
+    width: 1717px;
+    height: 554px;
+}
+
+.thanh-ngang1{
+        display: block;
+    clear: both;
+    width: 1188px;
+    padding-top: 24px;
+}
+.thanh-ngang-o-vuong{
+        height: 45px;
+    background: rgb(255, 255, 255);
+    margin-right: 113px;
+    border-radius: 20px;
+    margin-left: -104px;
+                float: left;
+                width: 24.2%;
+
+}
+.img{
+    width: 32px;
+    height: 32px;
+    margin: 4px;
+}
+.icon-o-vuong{
+    float: left;
+}
+.chu-o-vuon {
+  display: inline-block;
+}
+.dell-chop-nhoang-text{
+    margin-top: 100px;
+    margin-left: 131px;
+    font-size: 22px;
+    color: #ffff;
+}
+.dell-chop-nhoang{
+    background: 0 0;
+    height: 38px;
+    line-height: 0px;
+}
+.dang-ban{
+    margin-bottom: 12px;
+    background-color: #fff;
+    height: 375px;
+    margin-right: 338px;
+    margin-left: 130px;
+    margin-top: -20px;
+}
+.text-dang-ban a{
+    margin-right: 10px;
+    font-size: 20px;
+    color: #f57224
+}
+.text-dang-ban{
+    overflow: hidden;
+    border-bottom: #d5d5d5 1px solid;
+    height: 60px;
+    line-height: 60px;
+    margin-bottom: 10px;
+}
+.mua-ngay{
+    margin-left: 725px;
+    border: 1px solid #f57224;
+    text-align: center;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+.don-hang{
+    height: 290px;
+    width: 188px;
+    float: left;
+    margin-right: 20px;
+    position: relative;
+
+
+}
+.ma-don-hang{
+    height: 36px;
+    line-height: 18px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    margin-bottom: 4px;
+    font-size: 14px;
+}
+.text-tien {
+    color: #f57224;
+    font-size: 18px;
+}
+.text-don-hang{
+    margin-left: 10px;
+}
